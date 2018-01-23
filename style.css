@@ -1,0 +1,98 @@
+body {
+    background-color: #ffffff;
+    font: 14px "Roboto",Helvetica,Arial,sans-serif;
+}
+
+a {
+    color: #008e98;
+    text-decoration: none;
+}
+
+header {
+    display: block;
+    background-color: #ffffff;
+    color: #2f241e;
+    height: 90px;
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    margin-top: 15px;
+}
+
+.top-menu {
+    float: right;
+    height: 35px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.top-menu a {
+    color: #2f241e;
+    text-decoration: none;
+}
+
+h1 {
+    color: #2f241e;
+    text-align: center;
+    font-weight: lighter;
+    text-transform: uppercase;
+
+}
+
+h2 {
+    color: #2f241e;
+  }
+
+nav {
+    background-color: #faf9f7;
+    border: 1px solid #faf9f7;
+    height: 35px;
+    color: #666666;
+    font-weight: bold;
+}
+nav div {
+    width: 1060px;
+    margin: 0 auto;
+}
+
+ul li {
+    display: inline-block;
+    margin-right:22px;
+    list-style-type: none;
+    margin-top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #666666;
+}
+
+ul {
+    padding: 0;
+    top: 50%;
+    margin-top: 0.55em;
+}
+
+main {
+    margin: 0 auto;
+    width: 1060px;
+    display: block;
+    color: #666666;
+}
+
+.left-column {
+    width: 48%;
+    float: left;
+}
+
+.right-column{
+    width: 48%;
+    float: right;
+}
+
+img{
+    width: 98%;
+}
